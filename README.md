@@ -38,4 +38,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
