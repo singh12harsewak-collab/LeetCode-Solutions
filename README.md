@@ -50,6 +50,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1603-design-parking-system](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/1603-design-parking-system/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -87,4 +88,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
