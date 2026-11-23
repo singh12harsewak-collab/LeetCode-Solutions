@@ -23,4 +23,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
