@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -29,11 +30,13 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0912-sort-an-array](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String
@@ -96,4 +99,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
