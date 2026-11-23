@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -44,6 +45,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Design
 | Problem Name | Difficulty |
