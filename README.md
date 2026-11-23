@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1470-shuffle-the-array](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -20,6 +21,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/singh12harsewak-collab/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
